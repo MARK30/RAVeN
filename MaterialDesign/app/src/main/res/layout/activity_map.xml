@@ -1,0 +1,24 @@
+<LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools" android:layout_width="432dp"
+        android:layout_height="591dp" android:id="@+id/map" tools:context=".MapActivity"
+        android:name="com.google.android.gms.maps.SupportMapFragment" >
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="I got assistance"
+        android:background="#FF7D40"
+        android:onClick="onClick15"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+
+        android:paddingBottom="2dp"
+        />
+    </fragment>
+
+</LinearLayout>

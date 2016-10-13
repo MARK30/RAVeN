@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Material Design</string>
+    <string name="action_settings">Logout</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">About App</string>
+    <string name="nav_item_notifications">Notifications</string>
+    <string name="nav_item_contactus">ContactUs</string>
+    <string name="nav_item_report">Report</string>
+    <string name="nav_item_developers">Developers</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+        <item>@string/nav_item_contactus</item>
+        <item>@string/nav_item_report</item>
+        <item>@string/nav_item_developers</item>
+    </string-array>
+
+    <string name="title_messages">Notifications</string>
+    <string name="title_friends">About App</string>
+    <string name="title_home">Home</string>
+    <string name="title_contactus">ContactUs</string>
+    <string name="title_report">Report</string>
+    <string name="title_developers">Developers</string>
+
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome to RAVeN</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="title_activity_payment">payment</string>
+    <string name="title_activity_mechanicdetailsactivity">mechanicdetailsactivity</string>
+    <string name="title_activity_phonecall">Our Assistance</string>
+    <string name="title_activity_welcomeactivity">RAVeN</string>
+    <string name="title_activity_map">Track your mechanic</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_confirmation_activity">Reviews</string>
+    <string name="title_activity_thanx">thanx</string>
+</resources>
